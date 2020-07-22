@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/xamfy/xamfy.svg)](http://hits.dwyl.com/xamfy/xamfy)
-
 ### Hi there 👋
 
 <!--
