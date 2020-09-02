@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![views](https://komarev.com/ghpvc/?username=xamfy&color=blueviolet)
+<!-- ![views](https://komarev.com/ghpvc/?username=xamfy&color=blueviolet) -->
 
 <!--
 **xamfy/xamfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
