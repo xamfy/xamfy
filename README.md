@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br />  
 
 - 🔭 I’m currently working on [Velibo Fit: Step counter & Gym Workout Planner](https://play.google.com/store/apps/details?id=com.xamfy.velibomini)
-- 🌱 I’m currently exploring android.
+<!-- 🌱 I’m currently exploring android. -->
 - 👯 I’m open to collaborate on open source android apps and web apps.
 - 💬 Ask me about android, web applications and cloud tech.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pratyakshsingh/), [Instagram](https://www.instagram.com/velibo_codes/) or email in bio.
