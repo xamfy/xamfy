@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ⚡ I'm a full-stack developer with 1+ years of experience in native android development.
-- ⚡ I'm aware of the complete development cycle of native android applications from inception to production(including continuous delivery).
+- ⚡ I'm aware of the complete development cycle of native android applications.<br />
+  (including continuous delivery)
+<br />  
+
 - 🔭 I’m currently working on [Velibo Fit: Step counter & Gym Workout Planner](https://play.google.com/store/apps/details?id=com.xamfy.velibomini)
 - 🌱 I’m currently exploring android.
 - 👯 I’m open to collaborate on open source android apps and web apps.
